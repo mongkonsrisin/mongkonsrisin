@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mongkon Srisin 
 
-I'm a Software Engineer with experience in mobile and backend development across banking, food delivery, and healthcare industries. Currently, at **TMBThanachart Bank**, I develop digital onboarding solutions for the mobile banking app. Previously, I worked on the **LINE MAN** app, improving scalability with Clean Architecture, and at **AXONS**, where I transitioned a POS app to Flutter. My skills include Flutter, ASP.NET C#, Vue.js, and mobile development for both Android and iOS. I’m passionate about creating innovative, scalable solutions to solve real-world problems.
+Android Software Engineer specializing in Kotlin and Clean Architecture, with experience in building scalable and maintainable mobile applications. Currently developing digital onboarding solutions for **TMBThanachart Bank**’s mobile banking app, ensuring seamless user experiences. Previously contributed to LINE MAN’s food delivery platform, optimizing grocery shopping features and deploying updates to the Play Store. Skilled in designing robust architectures, integrating third-party services, and collaborating with cross-functional teams to deliver high-quality Android applications. Passionate about crafting efficient, user-centric mobile solutions.
 
 ## 💼 Experience
 ### Software Engineer | TMBThanachart Bank
