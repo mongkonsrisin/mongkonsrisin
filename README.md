@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mongkon Srisin 
 
-Android Software Engineer specializing in Kotlin and Clean Architecture, with experience in building scalable and maintainable mobile applications. Currently developing digital onboarding solutions for **TMBThanachart Bank**’s mobile banking app, ensuring seamless user experiences. Previously contributed to LINE MAN’s food delivery platform, optimizing grocery shopping features and deploying updates to the Play Store. Skilled in designing robust architectures, integrating third-party services, and collaborating with cross-functional teams to deliver high-quality Android applications. Passionate about crafting efficient, user-centric mobile solutions.
+Android Software Engineer specializing in Kotlin and Clean Architecture, with experience in building scalable and maintainable mobile applications. Currently developing digital onboarding solutions for **TMBThanachart Bank**’s mobile banking app, ensuring seamless user experiences. Previously contributed to **LINE MAN**’s food delivery platform, optimizing grocery shopping features and deploying updates to the Play Store. Skilled in designing robust architectures, integrating third-party services, and collaborating with cross-functional teams to deliver high-quality Android applications. Passionate about crafting efficient, user-centric mobile solutions.
 
 ## 💼 Experience
 ### Software Engineer | TMBThanachart Bank
